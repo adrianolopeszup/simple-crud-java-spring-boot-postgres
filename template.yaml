@@ -1,0 +1,9 @@
+name: simple-crud-java-spring-boot-postgres
+description: simple crud using java, spring-boot and postgres 
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
